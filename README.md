@@ -1,4 +1,4 @@
-<h1> Emeline DIEU, Thomas MOREAU , Projet DONJON COO </h1>
+<h1> Emeline DIEU, Thomas MOREAU et Guillaume Lepretre le BG , Projet DONJON COO </h1>
 
 <h3> Introduction au projet </h3>
 <p> Le projet à réaliser était un projet donjon. Le principe était qu'un personnage évolue dans un donjon ( ensemble de pièces ) en affrontant des monstres et en utilisant des objets ( Items ) afin de survivre jusqu'à la fin du donjon.</p>
