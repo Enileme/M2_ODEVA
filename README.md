@@ -20,3 +20,6 @@
 <p>Toutes les fonctionnalités tesstables du projet ont été testées, les seules parties non tesstées sont les fonctions utilisants des valeurs aléatoires ou encore des entrées claviers. </p>
 
 <p> Cependant, nous n'avons pas réussi à intégrer l'UML dans le fichier README, nous l'avons livré sur le git </p>
+
+lallalallalalallalalallallalalala
+Thomichou le bg, Xavier le con
