@@ -1,4 +1,4 @@
-<h1> Emeline DIEU, Thomas MOREAU , Projet DONJON COO </h1>
+<h1> Emeline DIEU, Thomas MOREAU et Guillaume Lepretre le BG , Projet DONJON COO </h1>
 
 <h3> Introduction au projet </h3>
 <p> Le projet à réaliser était un projet donjon. Le principe était qu'un personnage évolue dans un donjon ( ensemble de pièces ) en affrontant des monstres et en utilisant des objets ( Items ) afin de survivre jusqu'à la fin du donjon.</p>
@@ -20,3 +20,6 @@
 <p>Toutes les fonctionnalités tesstables du projet ont été testées, les seules parties non tesstées sont les fonctions utilisants des valeurs aléatoires ou encore des entrées claviers. </p>
 
 <p> Cependant, nous n'avons pas réussi à intégrer l'UML dans le fichier README, nous l'avons livré sur le git </p>
+
+lallalallalalallalalallallalalala
+Thomichou le bg, Xavier le con
